@@ -198,30 +198,22 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
-
-
-#EXTINF:-1 tvg-id="LaIslillaTV.pe" tvg-logo="https://i.imgur.com/rWOV1II.png" group-title="General",La Islilla TV [Not 24/7]
-http://190.108.83.142:8000/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-
-#EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Undefined",LimaLive
-https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-logo="https://i.imgur.com/gBbCDCL.png" group-title="General",LotPlus TV (Chiclayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV (Tarapoto) (480p) [Not 24/7]
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America (480p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
