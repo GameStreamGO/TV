@@ -117,36 +117,30 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="tvcubana.icrt.cu" tvg-logo="https://i.imgur.com/QJ9lVj2.png" group-title="General",CubaVision Internacional
-https://scontent.flim2-2.fna.fbcdn.net/v/t39.2093-6/340964718_1515503382306955_9106043683900438676_n.srt?_nc_cat=106&ccb=1-7&_nc_sid=8d539b&_nc_ohc=DYtEcq2K7E4AX-bRCJI&_nc_oc=AQlcSvL8ckopf3KJDuj5ONdV9P3IpvB814Y0-zYnxsEHdF9mSCkwHjOmmZKeCrMPOHM&_nc_ht=scontent.flim2-2.fna&oh=00_AfBi_pc9or8licPvC14BvFDmqLPwEaQb3clLjbhD4aKkjw&oe=643A66D3
-
-
-
-
-
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="Culture",Diáspora TV [Not 24/7]
-https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="General",Doble C Televisión (Mazamari) [Not 24/7]
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="EnerGeekAnimate.cl" tvg-logo="https://i.imgur.com/yq4K3KN.png" group-title="Animation;Entertainment",EnerGeek Animate (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8?nimblesessionid=649396
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
