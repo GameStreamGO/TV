@@ -174,38 +174,30 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados Televisión (720p)
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados Televisión
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
 
-#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-logo="https://i.imgur.com/PevmfqK.png" group-title="General",Huacho Perú TV [Not 24/7]
-https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
-
-#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe" tvg-logo="https://i.imgur.com/a2lP0Ma.png" group-title="Undefined",Imagen Televisión (Rioja) (720p) [Not 24/7]
-http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19
 https://servilive.com:3149/live/jn19tvlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",K-Pop Channel
-http://177.53.152.186:8000/play/a00j/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Kpoptv.live" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Undefined",K-Pop Channel
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
