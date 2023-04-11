@@ -99,39 +99,34 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-id="CNCDigital.pe" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="General",CNC Digital
 https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028336/cnnespanol-cenc/master_wv_de.m3u8?afid=325874973&caid=live066750ce2e0963f77b3505e2d7e77d0beeae5cd5&conf_csid=cnnespanol.cnn.com_venezuela_livestream&nw=48804&playername=top-2.12.1&prof=48804:cnn_web_live&yo.asd=true&yo.pbr=true&yo.pst=true&guID=6434ca840cf8f50a3f9de80015e1a34d&transactionID=16811813915523940876762390&_fw_gdpr=0&_fw_us_privacy=1---&audio=unmuted&vpmute=0&krux_params=a3J1eF91c2VyPWtwcGlkZmZfUGZQOURxUkU%3D&vpa=0&paln=AQzzBGQE8mXIdTrG_8AjWaXeDNzbE-Czv5YoGT165G33hLlL_2fUCTMGlsGJhLUmOwdrwX88GK-dP0hNuaw-Ve8-Y4iTMZKsiGztWbBG5BvdkOZO5Y5c6jXST3V4u9ZgSzEvwdos4HGCUJLJ5Jds9Aq3jGddKY6V3eHPTiBCYeEWFJb5HrVMWgL5H0tzKcVA0XHk5MyMl-H8qPzQr2wApMmAPsLrDz4lRGUMlta4f4S-4PFHM-y0KK7faybojcmo6bFVv1NGdLpjfA6HSkoL8HfGNle-YUpK_VdNvcaM2fGe702bq3ZFLzYu5JIhkiJnQ1x6yWMjRA0giwhUkrXo5ikEUt22VuHK4LRLUJvK34LI9yBNP1AH6i9TGQQXiYm3dUxk1zO0ahTvyf7Vsg1cd4cKw8_RIKoO0101n_kdXU30T9JAqFbMCmSH683tC0Qx_rs0Yb8kYZGUYl0PhEvzi3ETKae5VM28TQ7gaT_6YOE65ZC2GMDaCI_a3YP622PvLnjD635fwvqW3jyQPrXCYpinq-m_GJu0Zm429-J3bFYmdOuafIZNL9nDxGnPVM8htVhtSZ28tQmdczKjME5k41Cgg1gy3gFJbMMMu8i4zlc7VsME1CeEzXdK2T_BzHIQCUov-4JClhGNtMECMBCNDJr3ZhZqEajhbREGF4a9qMvjIDXMu0H3LHL4kN7kdemPLVazJPmaH9W9Sy4r2Lg2mdrMRFYk9zUSc0NtHw3d1BQtVLZQ3J0qmQWK45jt2YMu-6PhONPg-aq4OPnl4N_nMj8VhHih25E-TmAiZQj5jeBXO9iBMi99CaX1SeLM59VsP4-189bFwkHopNXXGjaii1qTJ6aXf7m2qZy9RQ9dPu1c5esMNt-JcNvSiIN8UaAPmA..&proxmc_params=MTEyMjAwPXBjb25pZCYxMjExMDA9cGNvbmlkJjI0MDAwMD1wY29uaWQmMjQwMDAxPXBjb25pZCYyNDAwMDI9cGNvbmlkJjI0MDAwMz1wY29uaWQmMjQwMDA0PXBjb25pZCYyNDAwMDU9cGNvbmlkJjI0MDAwNj1wY29uaWQmMjQwMDA3PXBjb25pZCYyNDAwMDg9cGNvbmlkJjI0MDAwOT1wY29uaWQmMjQwMDExPXBjb25pZCYyNDAwMTI9cGNvbmlkJjI0MDAxMz1wY29uaWQmMjQwMDE0PXBjb25pZCYyNDAwMTU9cGNvbmlkJjI0MDAxNj1wY29uaWQmMjQwMDE3PXBjb25pZCYyNDAwMTg9cGNvbmlkJjI0MDAxOT1wY29uaWQmMzAwMDEyPXBjb25pZCYxYmR0aTk9cGNvbmlkJjZrczg2OD1wY29uaWQmdTN4aHg1PXBjb25pZCY1MnZlMjU9cGNvbmlkJnFlMDhmaD1wY29uaWQmd2llOTNtPXBjb25pZCZiaXh3azU9cGNvbmlkJnBxMXRtbD1wY29uaWQmcHd1b3VjPXBjb25pZCYxOXlkcjY9cGNvbmlkJjdvZzc4OD1wY29uaWQmbGg0NHNpPXBjb25pZCZtYzNreGg9cGNvbmlkJjZnaXB4Nj1wY29uaWQmMW85bHVkPXBjb25pZCZoYmk0M2U9cGNvbmlkJmtsZHpjeT1wY29uaWQmMGpkeGhwPXBjb25pZCZ1cHJ1enY9cGNvbmlkJnJmNWMycT1wY29uaWQmNmNxaWc0PXBjb25pZA%3D%3D&_fw_ar=0&protocol=ssl&inFocus=true&_fw_vcid2=eb7b8_7220618770867181201&krux_user=kppidff_PfP9DqRE&zwmc=7144473234642210588&cdpfl=lrfff&abip=false&app_csid=cnnespanol.cnn.com_world_t1&yo.av=3&yo.pdt=sync&yo.lpa=dur
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV [Not 24/7]
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV (Cajamarca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CTC.pe" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Undefined",CTC (720p)
-http://190.108.83.142:8000/play/a007/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/QJ9lVj2.png" group-title="General",CubaVision Internacional (480p) [Not 24/7]
-http://190.122.96.187:8888/http/010
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p) [Not 24/7]
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
