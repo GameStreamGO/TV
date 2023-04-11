@@ -312,26 +312,22 @@ https://s1.tvdatta.com:3950/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="RadioUNO.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="News",Radio Uno
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="RadioyTvFiladelfia.pe" tvg-logo="https://i.imgur.com/b9XTyNI.png" group-title="Religious",Radio y Tv Filadelfia
 https://streamlive2.hearthis.at:8000/9758676.ogg
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka (Abancay) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="General",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
+https://dattavolt.com:8370/radiooriente.mp3
+
+
+
+
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
