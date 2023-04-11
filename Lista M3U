@@ -192,18 +192,18 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19
 https://servilive.com:3149/live/jn19tvlive.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Kpoptv.live" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Undefined",K-Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade (720p)
+#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://i.imgur.com/WM4FXod.png" group-title="Entertainment",Kanade
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
+
+
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
-https://cu.onliv3.com/livevd/user1.m3u8
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+
+
 
 #EXTINF:-1 tvg-id="LaIslillaTV.pe" tvg-logo="https://i.imgur.com/rWOV1II.png" group-title="General",La Islilla TV [Not 24/7]
 http://190.108.83.142:8000/play/a00b/index.m3u8
