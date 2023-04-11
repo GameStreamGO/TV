@@ -28,7 +28,7 @@ https://nedmediaworks.akamaized.net/hls/live/2100630/atv/master.m3u8?hdnts=ip=17
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://willax.pe/img/footer-logo.png" group-title="Undefined" ,Willax Canal 12
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmt84P3qxOBSa0ILH5HHOsJGZyat57xkW_rVUqh3c46tV)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkIe_YD9d-HcG_3VYK87pP2A7SaIo8vEd0UATjuOQowK)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -423,28 +423,28 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tpto.org" tvg-logo="https://i.imgur.com/pjcWDJW.png" group-title="Undefined",TPTO Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://www.trivutv.com/assets/images/header/LOGO_01.svg" group-title="General",Trivu
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="General",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="General",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="General",Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="truTVLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Undefined",truTV América Latina
-http://190.61.37.173:9001/play/a084/index.m3u8
-
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TurboMix.com.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="TV5.pe" tvg-logo="https://i.imgur.com/n9PL3Ie.png" group-title="General",TV5 Soritor (720p) [Not 24/7]
-https://live.obslivestream.com/tv5/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (768p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
