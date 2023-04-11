@@ -66,64 +66,48 @@ https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="Sports",Best Cable Sports Peru
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
-http://45.5.8.78:8000/play/a00i
 
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
-#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (480p)
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalE.pe" tvg-logo="https://i.imgur.com/T6FJIc4.png" group-title="Undefined",Canal E
 https://stream.plixitv.live/westv/westv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Culture",Canal Iberoamericano
-https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Family",Canal IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="CaribeTelevision.pe" tvg-logo="https://i.imgur.com/4MftJLp.png" group-title="Undefined",Caribe Televisión (Otuzco) (1080p) [Not 24/7]
-http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV (Chosica) (614p) [Not 24/7]
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (576p)
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-logo="https://i.imgur.com/tFRmMkf.png" group-title="General",CharapaTV (Pucallpa) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
-
-#EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="Family",Chicos IPe (1080p) [Not 24/7]
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-logo="https://i.imgur.com/CryJ1Aj.png" group-title="Undefined",Chincha TV [Not 24/7]
+#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-logo="https://i.imgur.com/CryJ1Aj.png" group-title="Undefined",Chincha TV
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
-
-#EXTINF:-1 tvg-id="CNTV.pe" tvg-logo="https://i.imgur.com/bVTjvp6.png" group-title="General",CN TV [Not 24/7]
-https://tv.inka.net.pe/cntv/index.m3u8
 
 #EXTINF:-1 tvg-id="CNCDigital.pe" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="General",CNC Digital
 https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-http://209.91.213.10:8088/play/a014
+https://live-manifests-aka.warnermediacdn.com/csmp/cmaf/live/2028336/cnnespanol-cenc/master_wv_de.m3u8?afid=325874973&caid=live066750ce2e0963f77b3505e2d7e77d0beeae5cd5&conf_csid=cnnespanol.cnn.com_venezuela_livestream&nw=48804&playername=top-2.12.1&prof=48804:cnn_web_live&yo.asd=true&yo.pbr=true&yo.pst=true&guID=6434ca840cf8f50a3f9de80015e1a34d&transactionID=16811813915523940876762390&_fw_gdpr=0&_fw_us_privacy=1---&audio=unmuted&vpmute=0&krux_params=a3J1eF91c2VyPWtwcGlkZmZfUGZQOURxUkU%3D&vpa=0&paln=AQzzBGQE8mXIdTrG_8AjWaXeDNzbE-Czv5YoGT165G33hLlL_2fUCTMGlsGJhLUmOwdrwX88GK-dP0hNuaw-Ve8-Y4iTMZKsiGztWbBG5BvdkOZO5Y5c6jXST3V4u9ZgSzEvwdos4HGCUJLJ5Jds9Aq3jGddKY6V3eHPTiBCYeEWFJb5HrVMWgL5H0tzKcVA0XHk5MyMl-H8qPzQr2wApMmAPsLrDz4lRGUMlta4f4S-4PFHM-y0KK7faybojcmo6bFVv1NGdLpjfA6HSkoL8HfGNle-YUpK_VdNvcaM2fGe702bq3ZFLzYu5JIhkiJnQ1x6yWMjRA0giwhUkrXo5ikEUt22VuHK4LRLUJvK34LI9yBNP1AH6i9TGQQXiYm3dUxk1zO0ahTvyf7Vsg1cd4cKw8_RIKoO0101n_kdXU30T9JAqFbMCmSH683tC0Qx_rs0Yb8kYZGUYl0PhEvzi3ETKae5VM28TQ7gaT_6YOE65ZC2GMDaCI_a3YP622PvLnjD635fwvqW3jyQPrXCYpinq-m_GJu0Zm429-J3bFYmdOuafIZNL9nDxGnPVM8htVhtSZ28tQmdczKjME5k41Cgg1gy3gFJbMMMu8i4zlc7VsME1CeEzXdK2T_BzHIQCUov-4JClhGNtMECMBCNDJr3ZhZqEajhbREGF4a9qMvjIDXMu0H3LHL4kN7kdemPLVazJPmaH9W9Sy4r2Lg2mdrMRFYk9zUSc0NtHw3d1BQtVLZQ3J0qmQWK45jt2YMu-6PhONPg-aq4OPnl4N_nMj8VhHih25E-TmAiZQj5jeBXO9iBMi99CaX1SeLM59VsP4-189bFwkHopNXXGjaii1qTJ6aXf7m2qZy9RQ9dPu1c5esMNt-JcNvSiIN8UaAPmA..&proxmc_params=MTEyMjAwPXBjb25pZCYxMjExMDA9cGNvbmlkJjI0MDAwMD1wY29uaWQmMjQwMDAxPXBjb25pZCYyNDAwMDI9cGNvbmlkJjI0MDAwMz1wY29uaWQmMjQwMDA0PXBjb25pZCYyNDAwMDU9cGNvbmlkJjI0MDAwNj1wY29uaWQmMjQwMDA3PXBjb25pZCYyNDAwMDg9cGNvbmlkJjI0MDAwOT1wY29uaWQmMjQwMDExPXBjb25pZCYyNDAwMTI9cGNvbmlkJjI0MDAxMz1wY29uaWQmMjQwMDE0PXBjb25pZCYyNDAwMTU9cGNvbmlkJjI0MDAxNj1wY29uaWQmMjQwMDE3PXBjb25pZCYyNDAwMTg9cGNvbmlkJjI0MDAxOT1wY29uaWQmMzAwMDEyPXBjb25pZCYxYmR0aTk9cGNvbmlkJjZrczg2OD1wY29uaWQmdTN4aHg1PXBjb25pZCY1MnZlMjU9cGNvbmlkJnFlMDhmaD1wY29uaWQmd2llOTNtPXBjb25pZCZiaXh3azU9cGNvbmlkJnBxMXRtbD1wY29uaWQmcHd1b3VjPXBjb25pZCYxOXlkcjY9cGNvbmlkJjdvZzc4OD1wY29uaWQmbGg0NHNpPXBjb25pZCZtYzNreGg9cGNvbmlkJjZnaXB4Nj1wY29uaWQmMW85bHVkPXBjb25pZCZoYmk0M2U9cGNvbmlkJmtsZHpjeT1wY29uaWQmMGpkeGhwPXBjb25pZCZ1cHJ1enY9cGNvbmlkJnJmNWMycT1wY29uaWQmNmNxaWc0PXBjb25pZA%3D%3D&_fw_ar=0&protocol=ssl&inFocus=true&_fw_vcid2=eb7b8_7220618770867181201&krux_user=kppidff_PfP9DqRE&zwmc=7144473234642210588&cdpfl=lrfff&abip=false&app_csid=cnnespanol.cnn.com_world_t1&yo.av=3&yo.pdt=sync&yo.lpa=dur
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
