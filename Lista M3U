@@ -207,58 +207,63 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 
-#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-logo="https://i.imgur.com/gBbCDCL.png" group-title="General",LotPlus TV (Chiclayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-logo="https://i.imgur.com/gBbCDCL.png" group-title="General",LotPlus TV
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America (480p)
+#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa) [Not 24/7]
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Music",Miel TV (Satipo) [Not 24/7]
+#EXTINF:-1 tvg-id="elgrupofiesta.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
-#EXTINF:-1 tvg-id="MilleniumTV.pe" tvg-logo="https://i.imgur.com/zYpMHhQ.png" group-title="General",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium 109 FM (Lamas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium Television
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 1 (320p) [Not 24/7]
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 2 (320p) [Not 24/7]
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 2
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MitosTV.pe" tvg-logo="https://i.imgur.com/uVaynHS.png" group-title="Undefined",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
-https://inliveserver.com:1936/19018/19018/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="HipodromodeMonterrico.com.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MX Old
-http://177.53.152.186:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/m6Q3imy.png" group-title="General",NacionalTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/m6Q3imy.png" group-title="General",NacionalTV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV (Satipo) [Not 24/7]
+#EXTINF:-1 tvg-id="elgrupofiesta.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV [Not 24/7]
 https://live.obslivestream.com/norselvatv/index.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima [Not 24/7]
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
