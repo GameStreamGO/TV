@@ -22,7 +22,7 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" group-title="Undefined",ATV Canal 9
-https://nedmediaworks.akamaized.net/hls/live/2100630/atv/hdntl=ip=179.6.212.36~exp=1681364472~acl=%2f*~data=hdntl~hmac=8a4ee5efa44543a545f076c0e0d26c41773fb3ee378e52ac1d24ab42bd66e2fd/master_240.m3u8
+https://nedmediaworks.akamaized.net/hls/live/2100630/atv/hdntl=ip=179.6.212.36~exp=1681364472~acl=%2f*~data=hdntl~hmac=8a4ee5efa44543a545f076c0e0d26c41773fb3ee378e52ac1d24ab42bd66e2fd/master_480.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
