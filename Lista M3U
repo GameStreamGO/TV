@@ -4,7 +4,6 @@
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title-"Undefined",Claro Sports Canal 3
-https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/99666ba7-5b1d-496b-9999-f1d8b37adfc4:SCL/master.m3u8
 https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/319e5441-8bf4-45da-8955-bd6f82d9d96a:SCL/variant/fed80a25b75563177cdae90fca9dc5fd/bandwidth/11497098.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/apple-touch-icon.png" group-title="Undefined" ,AmericaTV Canal 4
