@@ -466,8 +466,13 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV
-iframe.dacast.com/live/928203024202811fc3bc6cbe26866ebf/adeed196-c997-05a9-430f-188d97dfe346?fb=true
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/manifest.m3u8?p=79&s=1681275773&e=1681275893&h=3b42be34a4c3395cced890f2d8d66762
+
+
+
 
 
 
