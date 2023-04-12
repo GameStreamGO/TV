@@ -13,9 +13,7 @@ https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/99666ba
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/339585064_238500128583616_3255219391783296261_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wVa91wCIUfkAX8g1a8_&_nc_ht=scontent.flim2-1.fna&oh=00_AfDNsX1j01G2d9cViBpdcuxhc4tG9BCf6p40CQyzm9YPCQ&oe=64396AC5" group-title="Undefined",Canal J Canal 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b42666-p18-h99-af5ysuzz-t7f30bc.2.cdn.telefonica.com/_42666/CANALJ_CN_DASH_SSD/CanalJ.mpd
+
 
 #EXTINF:-1 tvg-id="TVPeru.gob.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Undefined",TVPeru Canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
