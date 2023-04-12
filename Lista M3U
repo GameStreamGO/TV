@@ -6,8 +6,8 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title-"Undefined",Claro Sports Canal 3
 https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/99666ba7-5b1d-496b-9999-f1d8b37adfc4:SCL/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" ,AmericaTV Canal 4
-https://mdstrm.com/live-stream/6099b04d9418ac082441dd74?jsapi=true&autoplay=true&player=60c2a74e0f4668082e309af4&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&access_token=P0VcXZ3aoIClkFv309WSppa7KyILgQjEFoa7xkaqACMY1bQR5hLF1dJ2S5shzPFHjmWWwy0z2H7&c=&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F84748259%2Ftvgo_home_atf_player%26description_url%3D%5Bplaceholder%5D%26tfcd%3D0%26npa%3D0%26sz%3D640x480%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&youbora[extra][0]=NoRegNoSusc&youbora[extra][1]=TVGO%20Web&youbora[extra][2]=tvgo-web
+#EXTINF:-1 tvg-id="" tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/apple-touch-icon.png" group-title="Undefined" ,AmericaTV Canal 4
+
 
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230410" group-title="Undefined",Panamericana Canal 5
 https://cdnh71.iblups.com/hls/ptv2.m3u8
