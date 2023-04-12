@@ -462,12 +462,6 @@ https://tvdatta.com:3211/stream/play.m3u8
 #EXTINF:-1 tvg-id="https://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america" tvg-logo="https://i.imgur.com/CzeVIZa.png" group-title="General",Galicia TV América
 https://america-crtvg.flumotion.com/playlist.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/manifest.m3u8?p=79&s=1681275773&e=1681275893&h=3b42be34a4c3395cced890f2d8d66762
 
@@ -475,11 +469,14 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/m
 
 
 
+#EXTINF:-1 tvg-id="UnitelPeru.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UnitelTV
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel (Huancayo) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
