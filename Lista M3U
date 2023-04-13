@@ -1,10 +1,7 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Undefined",Latina Canal 2
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/apple-touch-icon.png" group-title="Undefined" ,AmericaTV Canal 4
-
 
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230410" group-title="Undefined",Panamericana Canal 5
 https://cdnh71.iblups.com/hls/ptv2.m3u8
