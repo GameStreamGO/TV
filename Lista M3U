@@ -72,37 +72,35 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 #EXTINF:-1 tvg-id="Espanol.CGTN.com" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="General",CNC Digital
+#EXTINF:-1 tvg-id="www.coolstreaming.us/channelnew/es/71361/CNCCanalDigitalIquitos.html" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="General",CNC Digital
 https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2TV
-https://servilive.com:3114/live/liveulive.m3u8
-
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
+#EXTINF:-1 tvg-id="www.youtube.com/watch?v=VSIz1jv-CIU" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV
+#EXTINF:-1 tvg-id="coolstreaming.us/channelnew/es/69697/ControversiaTV.html" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television
+#EXTINF:-1 tvg-id="CRTV.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24
+#EXTINF:-1 tvg-id="Cultura24.tv" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
