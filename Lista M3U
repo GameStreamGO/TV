@@ -3,32 +3,17 @@
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Undefined",Latina Canal 2
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
-#EXTINF:-1 tvg-id="ClaroSports.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title-"Undefined",Claro Sports Canal 3
-https://dai.google.com/linear/hls/pa/event/t5TzXj8rQTCKAEpUMbP9_Q/stream/319e5441-8bf4-45da-8955-bd6f82d9d96a:SCL/variant/fed80a25b75563177cdae90fca9dc5fd/bandwidth/11497098.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s-tg.americatv.com.pe/f/desktop/img/apple-touch-icon.png" group-title="Undefined" ,AmericaTV Canal 4
 
 
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230410" group-title="Undefined",Panamericana Canal 5
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/339585064_238500128583616_3255219391783296261_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wVa91wCIUfkAX8g1a8_&_nc_ht=scontent.flim2-1.fna&oh=00_AfDNsX1j01G2d9cViBpdcuxhc4tG9BCf6p40CQyzm9YPCQ&oe=64396AC5" group-title="Undefined",Canal J Canal 6
-
-
 #EXTINF:-1 tvg-id="TVPeru.gob.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Undefined",TVPeru Canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alacocinatv.com/wp-content/uploads/2023/02/cropped-ALACOCINA_LOGO_CAPAS-1-1-1-1024x214.png" group-title="Undefined",Alacocinatv Canal 8
-
-
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atv-player.png" group-title="Undefined",ATV Canal 9
-https://nedmediaworks.akamaized.net/hls/live/2100630/atv/hdntl=ip=179.6.212.36~exp=1681364472~acl=%2f*~data=hdntl~hmac=8a4ee5efa44543a545f076c0e0d26c41773fb3ee378e52ac1d24ab42bd66e2fd/master_480.m3u8
-
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
-
-#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://willax.pe/img/footer-logo.png" group-title="Undefined",Willax Canal 12
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkIe_YD9d-HcG_3VYK87pP2A7SaIo8vEd0UATjuOQowK)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
