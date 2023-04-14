@@ -87,24 +87,16 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="DMJsur.com" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="General",DMJ
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="DW.com" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="https://LFNAi.com/admin/contenido/extra/tv/661" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="enerGeek.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek
+#EXTINF:-1 tvg-id="enerGeek.cl" tvg-logo="https://energeek.cl/uploads/logos/energeeklogo.png" group-title="Animation",EnerGeek
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-#EXTINF:-1 tvg-id="Enlace.org" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace TV
+#EXTINF:-1 tvg-id="Enlace.org" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" group-title="Religious",Enlace TV
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eSportsMaxNetwork.com" tvg-logo="http://www.esportsmaxnetwork.com/esports.png" group-title="Sports",Esports Max
@@ -113,8 +105,12 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.com" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious",EWTN el Canal Católico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV
+#EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
