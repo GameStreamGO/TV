@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" group-title="Undefined",Latina Canal 2
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://play-lh.googleusercontent.com/1aYosLI7grgwwx3inWLuSoiZMCErDpM3UkJdaBNHTi5Nak5XTZq8NFcwbVsWxx_0Ng=w240-h480-rw" group-title="Undefined",Latina Canal 2
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230410" group-title="Undefined",Panamericana Canal 5
 https://cdnh71.iblups.com/hls/ptv2.m3u8
