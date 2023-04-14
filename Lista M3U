@@ -30,17 +30,20 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="TVBellaAsuncion.com" tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/logobella.jpg" group-title="Undefined",Bella Asuncion TV
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Music",Best Cable Mas Cumbia
-https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
-
-#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Music",Best Cable Music
-https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
-
-#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="General",Best Cable Peru
+#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://scontent.flim2-2.fna.fbcdn.net/v/t39.30808-6/330846895_1820987748277583_8068452552621931406_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=9nXdRP9EhTQAX8pC9jd&_nc_ht=scontent.flim2-2.fna&oh=00_AfCyFJBATsek82anxMVtqsy2P68xATvjGGyN2YWAvjkOxA&oe=643DEF8A" group-title="General",Best Cable TV
 https://ca2.inka.net.pe/BesTv-0011200001/index.m3u8
 
-#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Sports",Best Cable Sports Peru
+#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/325282292_466359302363317_2934473874999543039_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=F6DVdqt-5ioAX-RO1-q&_nc_ht=scontent.flim2-1.fna&oh=00_AfD6hU5s1xgv3gwPal61wzEJN07txDSAvSvp-RUrgT7vXA&oe=643E68E2" group-title="Sports",Best Cable Sports Peru
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+
+#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://scontent.flim2-2.fna.fbcdn.net/v/t39.30808-6/304888913_751357935945307_7397207481942610485_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=457tKAP4yAsAX95EGJq&_nc_ht=scontent.flim2-2.fna&oh=00_AfCVxsugyGPZcW7U5z8e7RtX7Gz7KW2H7lWpgbayyOTPcQ&oe=643EF682" group-title="Music",Best Cable Music
+https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
+
+#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://scontent.flim2-2.fna.fbcdn.net/v/t39.30808-6/300186236_396551305944595_3569651695996745862_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=LGvNeqNy7C4AX-qzCpI&_nc_ht=scontent.flim2-2.fna&oh=00_AfBGLlEHbSzgP80WIu8ejEQPFtptHEUN6U3HxCQCymHJew&oe=643F4CE7" group-title="Music",Best Cable Mas Cumbia
+https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
+
+#EXTINF:-1 tvg-id="BestCablePeru.com.pe" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/298984788_494964829295953_1094467516164495985_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lZZyMcv5jccAX8prRyh&_nc_ht=scontent.flim2-1.fna&oh=00_AfDR5SW9l0PbXCXoqqsM4TMVLidG4UIvG1Spo2zjjDot3w&oe=643E7D95" group-title="Music",Hatun TV
+https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -129,10 +132,6 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Undefined",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
@@ -140,8 +139,11 @@ https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV
-https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados Televisión
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
