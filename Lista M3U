@@ -117,7 +117,7 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="FMTVmundo.com" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/06/logowhite.png" group-title="Undefined",Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV.com.pe" tvg-logo="https://fuegotv.com.pe/wp-content/uploads/elementor/thumbs/FUEGO-BLANCO-pzn2kygurdigkfmh95q5l6b055846k8gisc8dujvbw.png" group-title="News",FuegoTV
+#EXTINF:-1 tvg-id="FuegoTV.com.pe" tvg-logo="https://fuegotv.com.pe/wp-content/uploads/2023/02/LOGO-EN-FORMA-HORIZONTAL.png" group-title="News",FuegoTV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
 #EXTINF:-1 tvg-id="CentralGalactica.com" tvg-logo="https://centralgalactica.com/wp-content/uploads/2021/12/logo-1.png" group-title="Music",Galáctica TV
