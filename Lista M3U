@@ -75,31 +75,28 @@ https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 #EXTINF:-1 tvg-id="www.youtube.com/watch?v=VSIz1jv-CIU" tvg-logo="https://www.congreso.gob.pe/Interface/Img/logo.png?nocache=1681460653102" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Sports",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="coolstreaming.us/channelnew/es/69697/ControversiaTV.html" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="CRTV.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television
-https://live.obslivestream.com/crtvmux/index.m3u8
-
-#EXTINF:-1 tvg-id="Cultura24.tv" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura24 TV
+#EXTINF:-1 tvg-id="Cultura24.tv" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="Culture",Cultura24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DMJsur.com/tv" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ
+#EXTINF:-1 tvg-id="DMJsur.com" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="General",DMJ
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DW.com/es/tv-en-vivo/s-100837" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español
+
+
+
+
+#EXTINF:-1 tvg-id="DW.com" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="https://LFNAi.com/admin/contenido/extra/tv/661" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
