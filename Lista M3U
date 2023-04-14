@@ -138,15 +138,21 @@ https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-id="Hiperconectados.com" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Science",HiperTV
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV
+#EXTINF:-1 tvg-id="HispanTV.com" tvg-logo="http://www.hispantv.com/Views/Assets/img/logo.png" group-title="News",HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
