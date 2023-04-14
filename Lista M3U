@@ -153,12 +153,13 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanade.Wowlymedia.com" tvg-logo="https://kanade.wowlymedia.com/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Entertainment",Kanade
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña TV
+#EXTINF:-1 tvg-id="RadioKaribena.pe" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Music",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
