@@ -12,17 +12,23 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 
-#EXTINF:-1 tvg-id="AgroTV.ml" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.ml" tvg-logo="http://agrotv.ml/img/icon-deal.png" group-title="Undefined",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-1 tvg-id="Agrotendencia.tv" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV
+#EXTINF:-1 tvg-id="Agrotendencia.tv" tvg-logo="https://agrotendencia.tv/agropedia/wp-content/uploads/2021/01/cropped-attvlog_wap-300x77.png" group-title="Outdoor",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AZxtv.com" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
+#EXTINF:-1 tvg-id="AZxtv.com" tvg-logo="http://azxtv.com/aztv.png" group-title="Animation",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="AntaresTVRadio.com" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión
+#EXTINF:-1 tvg-id="AntaresTVRadio.com" tvg-logo="http://www.antarestvradio.com/images/logo.png" group-title="Entertainment",Antares Televisión
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
@@ -120,31 +126,30 @@ https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.com" tvg-logo="https://www.france24.com/favicon-194x194.png" group-title="News",France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV
+#EXTINF:-1 tvg-id="FMTVmundo.com" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/06/logowhite.png" group-title="Undefined",Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/1LuNEX4.png" group-title="News",FuegoTV
+#EXTINF:-1 tvg-id="FuegoTV.com.pe" tvg-logo="https://fuegotv.com.pe/wp-content/uploads/2023/02/LOGO-EN-FORMA-HORIZONTAL.png" group-title="News",FuegoTV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
-#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV
+#EXTINF:-1 tvg-id="CentralGalactica.com" tvg-logo="https://galacticatv.com/wp-content/uploads/2021/11/Sin-titulo-95-x-95-px.png" group-title="Music",Galáctica TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="Undefined",Galicia TV América
+#EXTINF:-1 tvg-id="www.CRTVG.es" tvg-logo="http://www.crtvg.es/static/v2_img/icons/android-icon-192x192.png" group-title="Undefined",Galicia TV América
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Undefined",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
