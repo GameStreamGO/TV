@@ -1,19 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://play-lh.googleusercontent.com/1aYosLI7grgwwx3inWLuSoiZMCErDpM3UkJdaBNHTi5Nak5XTZq8NFcwbVsWxx_0Ng=w240-h480-rw" group-title="Undefined",Latina Canal 2
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/125px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Undefined",Latina Canal 2
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230410" group-title="Undefined",Panamericana Canal 5
+#EXTINF:-1 tvg-id="Panamericana.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/175px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png" group-title="Undefined",Panamericana Canal 5
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.gob.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Undefined",TVPeru Canal 7
+#EXTINF:-1 tvg-id="TVPeru.gob.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/250px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Undefined",TVPeru Canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="Undefined",ATV+ Canal 10
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="AgroTV.ml" tvg-logo="http://agrotv.ml/img/icon-deal.png" group-title="Undefined",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
