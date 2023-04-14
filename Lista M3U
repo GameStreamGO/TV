@@ -156,19 +156,23 @@ https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="RadioKaribena.pe" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Music",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV
+#EXTINF:-1 tvg-id="LaLuz.pe" tvg-logo="https://laluz.pe/wp-content/uploads/2020/08/logo-web-nuevo.png" group-title="Religious",La Luz Television
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña
+#EXTINF:-1 tvg-id="RiberenaPucallpa.net" tvg-logo="https://www.riberenapucallpa.net/wp-content/uploads/elementor/thumbs/cropped-logo-riberena-q0dfifvepbddkvk6pyervgxj1ytsnclx1cu78n5ycw.png" group-title="Undefined",Ribereña Conectate +
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-logo="https://i.imgur.com/gBbCDCL.png" group-title="General",LotPlus TV
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
