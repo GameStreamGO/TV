@@ -108,10 +108,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
@@ -121,10 +117,10 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="FMTVmundo.com" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/06/logowhite.png" group-title="Undefined",Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV.com.pe" tvg-logo="https://fuegotv.com.pe/wp-content/uploads/2023/02/LOGO-EN-FORMA-HORIZONTAL.png" group-title="News",FuegoTV
+#EXTINF:-1 tvg-id="FuegoTV.com.pe" tvg-logo="https://fuegotv.com.pe/wp-content/uploads/elementor/thumbs/FUEGO-BLANCO-pzn2kygurdigkfmh95q5l6b055846k8gisc8dujvbw.png" group-title="News",FuegoTV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
-#EXTINF:-1 tvg-id="CentralGalactica.com" tvg-logo="https://galacticatv.com/wp-content/uploads/2021/11/Sin-titulo-95-x-95-px.png" group-title="Music",Galáctica TV
+#EXTINF:-1 tvg-id="CentralGalactica.com" tvg-logo="https://centralgalactica.com/wp-content/uploads/2021/12/logo-1.png" group-title="Music",Galáctica TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="www.CRTVG.es" tvg-logo="http://www.crtvg.es/static/v2_img/icons/android-icon-192x192.png" group-title="Undefined",Galicia TV América
@@ -132,6 +128,7 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Undefined",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
+
 
 
 
