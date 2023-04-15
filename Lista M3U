@@ -168,23 +168,21 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="MegaTVArequipa.com" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
 https://hls.servidor.stream/storage/megatv.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/LOGO-MEGA-PNG-e1669659423790.png" group-title="Undefined",Mega TV
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="elgrupofiesta.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium Television
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
