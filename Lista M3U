@@ -189,18 +189,22 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="General",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV
+#EXTINF:-1 tvg-id="RadioTVNorSelva.com" tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2023/03/LOGO-NORSELVA-768x728.png" group-title="Undefined",NorSelva
 https://live.obslivestream.com/norselvatv/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
