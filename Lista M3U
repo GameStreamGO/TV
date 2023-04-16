@@ -171,29 +171,22 @@ https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="ElGrupoFiesta.pe" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/11/mieltv2-1.jpg" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium Television
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 1
+#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 2
+#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 2
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ModoRadio.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Undefined",Modoradio TV
+#EXTINF:-1 tvg-id="ModoRadio.cl" tvg-logo="https://www.modoradio.cl/wp-content/uploads/2021/03/mrlogo2017-e1665818625267.png" group-title="Undefined",Modoradio TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HipodromodeMonterrico.com.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports",Monterrico TV
+#EXTINF:-1 tvg-id="HipodromodeMonterrico.com.pe" tvg-logo="https://hipodromodemonterrico.com.pe/generales_imagenes/favicon_monterrico.gif" group-title="Sports",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/m6Q3imy.png" group-title="General",NacionalTV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
