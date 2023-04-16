@@ -168,6 +168,9 @@ https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/LOGO-MEGA-PNG-e1669659423790.png" group-title="Undefined",Mega TV
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="ElGrupoFiesta.pe" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/04/nativa-tv.jpg" group-title="General",Nativa
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
 #EXTINF:-1 tvg-id="ElGrupoFiesta.pe" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/11/mieltv2-1.jpg" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
@@ -190,8 +193,8 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 
 
 
-#EXTINF:-1 tvg-id="elgrupofiesta.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+
 
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
