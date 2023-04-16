@@ -183,16 +183,12 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="HipodromodeMonterrico.com.pe" tvg-logo="https://hipodromodemonterrico.com.pe/generales_imagenes/favicon_monterrico.gif" group-title="Sports",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/m6Q3imy.png" group-title="General",NacionalTV
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa
+#EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="General",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="elgrupofiesta.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
