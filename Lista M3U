@@ -204,40 +204,32 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://ondadigital.pe/imgs/ondadigital.png" group-title="General",Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="Ovacion.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV
+#EXTINF:-1 tvg-id="Ovacion.pe" tvg-logo="https://ovacion.pe/sites/default/files/icono60x60.png" group-title="Sports",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka
+#EXTINF:-1 tvg-id="YouTube.com/watch?v=UhdQc6oFj20" tvg-logo="http://pakapaka.gob.ar/wp-content/uploads/2022/07/logo.png" group-title="Kids",Pakapaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 tvg-id="PaxTV.pe" tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="Religious",Pax TV
+#EXTINF:-1 tvg-id="PaxTVMovil.org" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="Religious",Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PeruvianRadioTV.pe" tvg-logo="https://i.imgur.com/53j4mNh.png" group-title="Undefined",PeruvianRadio TV
-https://stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV
+#EXTINF:-1 tvg-id="Moyobamba.com/PlanetaTV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="Undefined",Planeta HD
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV
+#EXTINF:-1 tvg-id="Platzi.com" tvg-logo="https://static.platzi.com/static/images/footer/logo.png" group-title="Education",Platzi
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
