@@ -225,20 +225,22 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="Platzi.com" tvg-logo="https://static.platzi.com/static/images/footer/logo.png" group-title="Education",Platzi
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15
+#EXTINF:-1 tvg-id="RadioPrimaveraTV.com.pe" tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-header.gif" group-title="General",PrimaveraTV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="General",QT Televisión
 https://servilive.com:3753/live/qosqotimeslive.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="RadioElPueblo.com" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="Music",Radio El Pueblo
 https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
