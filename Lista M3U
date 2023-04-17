@@ -228,13 +228,7 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="RadioPrimaveraTV.com.pe" tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-header.gif" group-title="General",PrimaveraTV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="General",QT Televisión
+#EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-logo="https://qosqotimes.pe/wp-content/uploads/2020/07/gRecurso-1qosqotimesfavicon-300x70.png" group-title="General",QT HD
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 
 
