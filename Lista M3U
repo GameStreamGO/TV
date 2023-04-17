@@ -246,21 +246,18 @@ https://s1.tvdatta.com:3950/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="RadioUNO.pe" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="News",Radio Uno
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 
-#EXTINF:-1 tvg-id="RadioTvFiladelfia.com" tvg-logo="https://i.imgur.com/4xTod3W.jpeg" group-title="Religious",Radio y TV Filadelfia
-https://streamlive2.hearthis.at:8000/9758676.ogg
-
 #EXTINF:-1 tvg-id="RadioTvFiladelfia.com" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/329186722_927380015282902_7919481159307299890_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zRPTOJiw6jAAX9nLlWw&_nc_ht=scontent.flim2-1.fna&oh=00_AfCUP7btbXPqESpOKbUF3eLY52OH9TXim4VWB43PJQh4-g&oe=6441C67C" group-title="Religious",Radio y TV Filadelfia
 https://streamlive8.hearthis.at/hls/10479442.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka
+#EXTINF:-1 tvg-id="InkaTropical.pe" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/Sin-titulo-2.png" group-title="Entertainment",Inka TV
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioOriente.com" tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="General",RadioTV Oriente
-https://dattavolt.com:8370/radiooriente.mp3
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
