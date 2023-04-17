@@ -12,6 +12,9 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 
+#EXTINF:-1 tvg-id="TVPeru.gob.pe" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="News",TVPerú Noticias Canal 14
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
 #EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa Canal 15
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
@@ -391,9 +394,6 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional
 http://cdnh4.iblups.com/hls/irtp.m3u8
-
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
