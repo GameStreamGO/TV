@@ -21,6 +21,9 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="General",Nativa Canal 30
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
+#EXTINF:-1 tvg-id="Enlace.org" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" group-title="Religious",Enlace Canal 181
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Agrotendencia.tv" tvg-logo="https://agrotendencia.tv/agropedia/wp-content/uploads/2021/01/cropped-attvlog_wap-300x77.png" group-title="Outdoor",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
@@ -101,9 +104,6 @@ https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="enerGeek.cl" tvg-logo="https://energeek.cl/uploads/logos/energeeklogo.png" group-title="Animation",EnerGeek
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-
-#EXTINF:-1 tvg-id="Enlace.org" tvg-logo="https://www.enlace.org/wp-content/uploads/2020/10/logoEnlace.png" group-title="Religious",Enlace TV
-https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eSportsMaxNetwork.com" tvg-logo="http://www.esportsmaxnetwork.com/esports.png" group-title="Sports",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
