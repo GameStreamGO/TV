@@ -12,6 +12,9 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 
+#EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa Canal 15
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
 #EXTINF:-1 tvg-id="Agrotendencia.tv" tvg-logo="https://agrotendencia.tv/agropedia/wp-content/uploads/2021/01/cropped-attvlog_wap-300x77.png" group-title="Outdoor",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
@@ -102,8 +105,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.com" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious",EWTN el Canal Católico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa TV
-https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
 
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
