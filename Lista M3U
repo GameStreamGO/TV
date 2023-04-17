@@ -231,31 +231,30 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-logo="https://qosqotimes.pe/wp-content/uploads/2020/07/gRecurso-1qosqotimesfavicon-300x70.png" group-title="General",QT HD
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="RadioElPueblo.com" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="Music",Radio El Pueblo
-https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-
-#EXTINF:-1 tvg-id="RadioRutasdelPeruTV.com" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Travel",Radio Rutas del Perú
+#EXTINF:-1 tvg-id="RadioRutasdelPeruTV.com" tvg-logo="https://radiorutasdelperutv.com/sitepad-data/uploads/2022/07/10-150x150.png" group-title="Travel",Radio Rutas del Perú
 https://tv.portalexpress.es:3731/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.com" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.com" tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV-768x180.png" group-title="Music",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="Music",Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVTendencias.com" tvg-logo="https://i.imgur.com/tsdrrV9.png" group-title="Music",Radio TV Tendencias
+#EXTINF:-1 tvg-id="RadioTVTendencias.com" tvg-logo="https://www.radiotvtendencias.com/wp-content/uploads/2022/06/icon.png" group-title="Music",Radio TV Tendencias
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioUNO.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="News",Radio Uno
+#EXTINF:-1 tvg-id="RadioUNO.pe" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="News",Radio Uno
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 
-#EXTINF:-1 tvg-id="RadioyTvFiladelfia.pe" tvg-logo="https://i.imgur.com/b9XTyNI.png" group-title="Religious",Radio y Tv Filadelfia
+#EXTINF:-1 tvg-id="RadioTvFiladelfia.com" tvg-logo="https://i.imgur.com/4xTod3W.jpeg" group-title="Religious",Radio y TV Filadelfia
 https://streamlive2.hearthis.at:8000/9758676.ogg
+
+#EXTINF:-1 tvg-id="RadioTvFiladelfia.com" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/329186722_927380015282902_7919481159307299890_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zRPTOJiw6jAAX9nLlWw&_nc_ht=scontent.flim2-1.fna&oh=00_AfCUP7btbXPqESpOKbUF3eLY52OH9TXim4VWB43PJQh4-g&oe=6441C67C" group-title="Religious",Radio y TV Filadelfia
+https://streamlive8.hearthis.at/hls/10479442.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
