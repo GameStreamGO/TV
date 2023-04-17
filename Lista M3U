@@ -18,6 +18,9 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="ExitosaNoticias.pe" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa Canal 15
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
+#EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="General",Nativa Canal 30
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
 #EXTINF:-1 tvg-id="Agrotendencia.tv" tvg-logo="https://agrotendencia.tv/agropedia/wp-content/uploads/2021/01/cropped-attvlog_wap-300x77.png" group-title="Outdoor",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
@@ -188,9 +191,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HipodromodeMonterrico.com.pe" tvg-logo="https://hipodromodemonterrico.com.pe/generales_imagenes/favicon_monterrico.gif" group-title="Sports",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="General",Nativa
-https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVNorSelva.com" tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2023/03/LOGO-NORSELVA-768x728.png" group-title="Undefined",NorSelva
 https://live.obslivestream.com/norselvatv/index.m3u8
