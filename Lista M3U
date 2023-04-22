@@ -246,26 +246,26 @@ https://s1.tvdatta.com:3950/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="RadioUNO.pe" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="News",Radio Uno
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 
-#EXTINF:-1 tvg-id="RadioTvFiladelfia.com" tvg-logo="https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/329186722_927380015282902_7919481159307299890_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zRPTOJiw6jAAX9nLlWw&_nc_ht=scontent.flim2-1.fna&oh=00_AfCUP7btbXPqESpOKbUF3eLY52OH9TXim4VWB43PJQh4-g&oe=6441C67C" group-title="Religious",Radio y TV Filadelfia
-https://streamlive8.hearthis.at/hls/10479442.m3u8
-
 #EXTINF:-1 tvg-id="InkaTropical.pe" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/Sin-titulo-2.png" group-title="Entertainment",Inka TV
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Canela.tv/linear/rcn-mas" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="Entertainment",RCN Más+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="News",Red de Comunicación Regional
+#EXTINF:-1 tvg-id="RCRPeru.com" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="News",RCR
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Undefined",Región TV
 https://servilive.com:3757/live/regiontvlive.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
