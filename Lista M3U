@@ -69,9 +69,6 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 tvg-id="Canal26.com" tvg-logo="https://www.canal26.com/images/favicon/apple-touch-icon.png" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ENET.pe" tvg-logo="https://enet.pe/wp-content/uploads/2022/08/1f.png" group-title="Undefined",Canal E
-https://stream.plixitv.live/westv/westv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalIPe.tv" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/ipe-blanco.png" group-title="Family",Canal IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
@@ -111,7 +108,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.com" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious",EWTN el Canal Católico
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="France24.com" tvg-logo="https://www.france24.com/favicon-194x194.png" group-title="News",France 24
@@ -120,22 +117,19 @@ https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="FMTVmundo.com" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/06/logowhite.png" group-title="Undefined",Frecuencia Musical TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV.com.pe" tvg-logo="https://play-lh.googleusercontent.com/8gzGJ2j-4tmzsi0D0Smty47oy5calGnFeS2v-fA7SKUtLgERSN7Dz7DUZNhczumpXe1a=w240-h480-rw" group-title="News",FuegoTV
-https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
-
 #EXTINF:-1 tvg-id="CentralGalactica.com" tvg-logo="https://centralgalactica.com/wp-content/uploads/2021/12/logo-1.png" group-title="Music",Galáctica TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="www.CRTVG.es" tvg-logo="http://www.crtvg.es/static/v2_img/icons/android-icon-192x192.png" group-title="Undefined",Galicia TV América
+#EXTINF:-1 tvg-id="CRTVG.es" tvg-logo="http://www.crtvg.es/static/v2_img/icons/android-icon-192x192.png" group-title="Undefined",Galicia TV América
 http://america-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Undefined",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
-#EXTINF:-1 tvg-id="Hiperconectados.com" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Science",HiperTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Science",HiperTV
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV.com" tvg-logo="http://www.hispantv.com/Views/Assets/img/logo.png" group-title="News",HispanTV
@@ -165,8 +159,13 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="MasterTVradio.com" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="General",Master Televisión
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America
+#EXTINF:-1 tvg-id="MBC-America.com" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Culture;Entertainment;Music",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="MegaTVArequipa.com" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
 https://hls.servidor.stream/storage/megatv.m3u8
@@ -258,26 +257,27 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 #EXTINF:-1 tvg-id="RegionTeVe.com" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="Undefined",RTV
 https://servilive.com:3757/live/regiontvlive.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 
+#EXTINF:-1 tvg-id="RetroPlusTV.com" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Music",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2
+#EXTINF:-1 tvg-id="RetroPlusTV.com" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Music",Retro Plus Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3
+
+
+
+
+
+  #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Movies",Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Undefined",RN Televisión
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
