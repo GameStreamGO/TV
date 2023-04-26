@@ -162,11 +162,6 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC-America.com" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Culture;Entertainment;Music",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="MegaTVArequipa.com" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
 https://hls.servidor.stream/storage/megatv.m3u8
 
@@ -187,9 +182,6 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ModoRadio.cl" tvg-logo="https://www.modoradio.cl/wp-content/uploads/2021/03/mrlogo2017-e1665818625267.png" group-title="Undefined",Modoradio TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HipodromodeMonterrico.com.pe" tvg-logo="https://hipodromodemonterrico.com.pe/generales_imagenes/favicon_monterrico.gif" group-title="Sports",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVNorSelva.com" tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2023/03/LOGO-NORSELVA-768x728.png" group-title="Undefined",NorSelva
 https://live.obslivestream.com/norselvatv/index.m3u8
@@ -215,7 +207,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="PaxTVMovil.org" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="Religious",Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moyobamba.com/PlanetaTV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="Undefined",Planeta HD
@@ -257,7 +249,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 #EXTINF:-1 tvg-id="RegionTeVe.com" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="Undefined",RTV
 https://servilive.com:3757/live/regiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="RestaurandoVidasInternacional.cl" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlusTV.com" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Music",Retro Plus
@@ -271,7 +263,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 
 
-  #EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Movies",Retro Plus 3
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Movies",Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 
