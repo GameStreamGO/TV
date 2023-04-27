@@ -57,29 +57,33 @@ https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="directostv.teleame.com/bhtvenvivo/" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="General",BHTV
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CadenaTV.com.pe" tvg-logo="https://www.cadenatv.com.pe/wp-content/uploads/2023/01/LOGO-CADENA-300x261.png" group-title="Undefined",Cadena TV
+#EXTINF:-1 tvg-id="CadenaTV.com.pe/en-vivo/" tvg-logo="https://www.cadenatv.com.pe/wp-content/uploads/2023/01/LOGO-CADENA-300x261.png" group-title="Undefined",Cadena TV
 https://servilive.com:3079/live/cdnatvlive.m3u8
 
-#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="General",Cajamarca TV
+#EXTINF:-1 tvg-id="CajamarcaTV.pe/tv" tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="General",Cajamarca TV
 https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal8Catacaos.com" tvg-logo="https://www.canal8catacaos.com/wp-content/uploads/2021/01/canal8logo.png" group-title="General",Canal 8
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.com" tvg-logo="https://www.canal26.com/images/favicon/apple-touch-icon.png" group-title="News",Canal 26
+#EXTINF:-1 tvg-id="Canal26.com/canal26-en-vivo" tvg-logo="https://www.canal26.com/images/favicon/apple-touch-icon.png" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalIPe.tv" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/ipe-blanco.png" group-title="Family",Canal IPe
+#EXTINF:-1 tvg-id="CanalIPe.tv/streaming" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/ipe-blanco.png" group-title="Family",Canal IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="ZoeTv.Peru15.com/tv-regional/central-tv" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Espanol.CGTN.com" tvg-logo="http://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="News",CGTN Español
+#EXTINF:-1 tvg-id="Espanol.CGTN.com/en-directo" tvg-logo="http://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="News",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="www.youtube.com/watch?v=VSIz1jv-CIU" tvg-logo="https://www.congreso.gob.pe/Interface/Img/logo.png?nocache=1681460653102" group-title="Legislative",Congreso TV
+#EXTINF:-1 tvg-id="https://Comunicaciones.Congreso.gob.pe/tv-congreso/" tvg-logo="https://www.congreso.gob.pe/Interface/Img/logo.png?nocache=1681460653102" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Sports",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
