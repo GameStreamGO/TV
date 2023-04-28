@@ -78,56 +78,43 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="https://Comunicaciones.Congreso.gob.pe/tv-congreso/" tvg-logo="https://www.congreso.gob.pe/Interface/Img/logo.png?nocache=1681460653102" group-title="Legislative",Congreso TV
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO-300x90.png" group-title="Sports",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1 tvg-id="coolstreaming.us/channelnew/es/69697/ControversiaTV.html" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV
+#EXTINF:-1 tvg-id="tv.peru15.com/tv-regional/controversia-tv" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24.tv" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="Culture",Cultura24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DMJsur.com" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="General",DMJ
+#EXTINF:-1 tvg-id="DMJsur.com/tv/" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="General",DMJ
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DW.com" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="News",DW Español
+#EXTINF:-1 tvg-id="DW.com/es/tv-en-vivo/s-100837" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="https://LFNAi.com/admin/contenido/extra/tv/661" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="enerGeek.cl" tvg-logo="https://energeek.cl/uploads/logos/energeeklogo.png" group-title="Animation",EnerGeek
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-
-#EXTINF:-1 tvg-id="eSportsMaxNetwork.com" tvg-logo="http://www.esportsmaxnetwork.com/esports.png" group-title="Sports",Esports Max
+#EXTINF:-1 tvg-id="http://eSportsMaxNetwork.com" tvg-logo="http://www.esportsmaxnetwork.com/esports.png" group-title="Sports",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EWTN.com" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious",EWTN el Canal Católico
+#EXTINF:-1 tvg-id="EWTN.com/tv/extra-watch-live/es-latam" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France24.com" tvg-logo="https://www.france24.com/favicon-194x194.png" group-title="News",France 24
+#EXTINF:-1 tvg-id="France24.com/es/en-vivo" tvg-logo="https://www.france24.com/favicon-194x194.png" group-title="News",France 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-id="FMTVmundo.com" tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/06/logowhite.png" group-title="Undefined",Frecuencia Musical TV
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CentralGalactica.com" tvg-logo="https://centralgalactica.com/wp-content/uploads/2021/12/logo-1.png" group-title="Music",Galáctica TV
+#EXTINF:-1 tvg-id="GalacticaTV.com" tvg-logo="https://galacticatv.com/wp-content/uploads/2021/11/Sin-titulo-95-x-95-px.png" group-title="Music",Galáctica TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="CRTVG.es" tvg-logo="http://www.crtvg.es/static/v2_img/icons/android-icon-192x192.png" group-title="Undefined",Galicia TV América
+#EXTINF:-1 tvg-id="CRTVG.es/tvg/tvg-en-directo/canle/galicia-tv-america" tvg-logo="http://www.crtvg.es/static/v2_img/icons/android-icon-192x192.png" group-title="Undefined",Galicia HD
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Undefined",Genios TV
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png" group-title="Undefined",Genios HD
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV
@@ -136,8 +123,12 @@ https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Science",HiperTV
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HispanTV.com" tvg-logo="http://www.hispantv.com/Views/Assets/img/logo.png" group-title="News",HispanTV
+#EXTINF:-1 tvg-id="HispanTV.com/directo" tvg-logo="http://www.hispantv.com/Views/Assets/img/logo.png" group-title="News",HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Identidad.tv" tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="News",Identidad.TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
