@@ -132,41 +132,38 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19Television.com" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="Religious",JN19
 https://servilive.com:3149/live/jn19tvlive.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="KpopTV.live" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Undefined",K-Pop TV Play
+#EXTINF:-1 tvg-id="KpopTV.live/video/kpop-livestreaming/#/?playlistId=0&videoId=0" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Undefined",K-Pop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="Kanade.Wowlymedia.com" tvg-logo="https://kanade.wowlymedia.com/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Entertainment",Kanade
+#EXTINF:-1 tvg-id="Kanade.Wowlymedia.com/en-vivo" tvg-logo="https://kanade.wowlymedia.com/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Entertainment",Kanade
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
-#EXTINF:-1 tvg-id="RadioKaribena.pe" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Music",Karibeña TV
+#EXTINF:-1 tvg-id="RadioKaribena.pe/videoskaribenatv/" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Music",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
-#EXTINF:-1 tvg-id="LaLuz.pe" tvg-logo="https://laluz.pe/wp-content/uploads/2020/08/logo-web-nuevo.png" group-title="Religious",La Luz Television
+#EXTINF:-1 tvg-id="LaLuz.pe/tvenvivo/" tvg-logo="https://laluz.pe/wp-content/uploads/2020/08/logo-web-nuevo.png" group-title="Religious",La Luz Television
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RiberenaPucallpa.net" tvg-logo="https://www.riberenapucallpa.net/wp-content/uploads/elementor/thumbs/cropped-logo-riberena-q0dfifvepbddkvk6pyervgxj1ytsnclx1cu78n5ycw.png" group-title="Undefined",Ribereña
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
-
-#EXTINF:-1 tvg-id="MasterTVradio.com" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="General",Master Televisión
+#EXTINF:-1 tvg-id="MasterTVradio.com/tv" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="General",Master Televisión
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC-America.com" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Culture;Entertainment;Music",MBC America
+#EXTINF:-1 tvg-id="MBC-America.com/live-streaming/" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Culture;Entertainment;Music",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVArequipa.com" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
+#EXTINF:-1 tvg-id="MegaTVArequipa.com/television-en-vivo/" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
 https://hls.servidor.stream/storage/megatv.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/LOGO-MEGA-PNG-e1669659423790.png" group-title="Undefined",Mega TV
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ElGrupoFiesta.pe" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/04/nativa-tv.jpg" group-title="General",Nativa
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
