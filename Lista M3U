@@ -126,18 +126,23 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 #EXTINF:-1 tvg-id="HispanTV.com/directo" tvg-logo="http://www.hispantv.com/Views/Assets/img/logo.png" group-title="News",HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="Identidad.tv" tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="News",Identidad.TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JN19Television.com" tvg-logo="http://www.jn19television.com/templates/televid_23/images/object979167786.png" group-title="Religious",JN19
 https://servilive.com:3149/live/jn19tvlive.m3u8
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="KpopTV.live" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Undefined",K-Pop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Kanade.Wowlymedia.com" tvg-logo="https://kanade.wowlymedia.com/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Entertainment",Kanade
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
