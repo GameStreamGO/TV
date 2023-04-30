@@ -153,52 +153,34 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/i
 #EXTINF:-1 tvg-id="MegaTVArequipa.com/television-en-vivo/" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
 https://hls.servidor.stream/storage/megatv.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/LOGO-MEGA-PNG-e1669659423790.png" group-title="Undefined",Mega TV
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ElGrupoFiesta.pe" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/04/nativa-tv.jpg" group-title="General",Nativa
+#EXTINF:-1 tvg-id="ElGrupoFiesta.pe/nativa-tv/" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/04/nativa-tv.jpg" group-title="General",Nativa
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
-#EXTINF:-1 tvg-id="ElGrupoFiesta.pe" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/11/mieltv2-1.jpg" group-title="Music",Miel TV
+#EXTINF:-1 tvg-id="ElGrupoFiesta.pe/miel-tv/" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/11/mieltv2-1.jpg" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
-#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 1
+#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe/unicast/canal-1" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 1
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 2
+#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe/unicast/canal-2" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 2
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ModoRadio.cl" tvg-logo="https://www.modoradio.cl/wp-content/uploads/2021/03/mrlogo2017-e1665818625267.png" group-title="Undefined",Modoradio TV
+#EXTINF:-1 tvg-id="ModoRadio.cl/modoradiotv" tvg-logo="https://www.modoradio.cl/wp-content/uploads/2021/03/mrlogo2017-e1665818625267.png" group-title="Undefined",Modoradio TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVNorSelva.com" tvg-logo="https://radiotvnorselva.com/wp-content/uploads/2023/03/LOGO-NORSELVA-768x728.png" group-title="Undefined",NorSelva
 https://live.obslivestream.com/norselvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Novelisima.com" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Series",Novelísima
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-
-#EXTINF:-1 tvg-id="NuevoTiempo.org" tvg-logo="https://www.nuevotiempo.org/wp-content/uploads/sites/6/2020/03/logo-teste-novo-tempo-02-ES.png" group-title="Religious",Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OKTelevisionHD.com" tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2022/03/LOGO-amarrillo-768x315.png" group-title="General",OK TeVe
+#EXTINF:-1 tvg-id="OKTelevisionHD.com/tv-en-vivo-2/" tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2022/03/LOGO-amarrillo-768x315.png" group-title="General",OK TeVe
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://ondadigital.pe/imgs/ondadigital.png" group-title="General",Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ovacion.pe" tvg-logo="https://ovacion.pe/sites/default/files/icono60x60.png" group-title="Sports",Ovacion
+#EXTINF:-1 tvg-id="Ovacion.pe/radio" tvg-logo="https://ovacion.pe/sites/default/files/icono60x60.png" group-title="Sports",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YouTube.com/watch?v=UhdQc6oFj20" tvg-logo="http://pakapaka.gob.ar/wp-content/uploads/2022/07/logo.png" group-title="Kids",Pakapaka
+#EXTINF:-1 tvg-id="CXTVenvivo.com/tv-en-vivo/pakapaka" tvg-logo="http://pakapaka.gob.ar/wp-content/uploads/2022/07/logo.png" group-title="Kids",Pakapaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PaxTVMovil.org" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="Religious",Pax TV
@@ -210,10 +192,10 @@ https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 #EXTINF:-1 tvg-id="Moyobamba.com/PlanetaTV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="Undefined",Planeta HD
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Platzi.com" tvg-logo="https://static.platzi.com/static/images/footer/logo.png" group-title="Education",Platzi
+#EXTINF:-1 tvg-id="Platzi.com/live/" tvg-logo="https://static.platzi.com/static/images/footer/logo.png" group-title="Education",Platzi
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 
-#EXTINF:-1 tvg-id="RadioPrimaveraTV.com.pe" tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-header.gif" group-title="General",PrimaveraTV
+#EXTINF:-1 tvg-id="RadioPrimaveraTV.com.pe/tv-en-vivo" tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-header.gif" group-title="General",PrimaveraTV
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-logo="https://qosqotimes.pe/wp-content/uploads/2020/07/gRecurso-1qosqotimesfavicon-300x70.png" group-title="General",QT HD
@@ -225,22 +207,22 @@ https://tv.portalexpress.es:3731/stream/play.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.com" tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV-768x180.png" group-title="Music",Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="Music",Tropical
+#EXTINF:-1 tvg-id="RadioTropical.pe/television/" tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="Music",Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVTendencias.com" tvg-logo="https://www.radiotvtendencias.com/wp-content/uploads/2022/06/icon.png" group-title="Music",Radio TV Tendencias
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiotvtendencias.com/wp-content/uploads/2022/06/icon.png" group-title="Music",Radio TV Tendencias
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-id="RadioUNO.pe" tvg-logo="https://radiouno.pe/wp-content/uploads/2021/05/logo_mv2_.gif" group-title="News",Radio Uno
 https://ythls.onrender.com/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 
-#EXTINF:-1 tvg-id="InkaTropical.pe" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/Sin-titulo-2.png" group-title="Entertainment",Inka TV
+#EXTINF:-1 tvg-id="InkaTropical.pe/inka-tv/" tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/Sin-titulo-2.png" group-title="Entertainment",Inka TV
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Canela.tv/linear/rcn-mas" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="Entertainment",RCN Más+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCRPeru.com" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="News",RCR
+#EXTINF:-1 tvg-id="ujjina.info/cdn/alfilpresstv.html" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="News",RCR
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RegionTeVe.com" tvg-logo="https://regionteve.com/wp-content/uploads/2020/12/REGIONTV7.png" group-title="Undefined",RTV
@@ -249,18 +231,13 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4wsvsUf.png" group-title="Religious",Restaurando Vidas Internacional
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlusTV.com" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Music",Retro Plus
+#EXTINF:-1 tvg-id="RetroPlusTV.com" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Music",Retro Plus Señal 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlusTV.com" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Music",Retro Plus Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Movies",Retro Plus 3
+#EXTINF:-1 tvg-id="latinartv.com/emisoras/retro-plus-3" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62.jpg" group-title="Movies",Retro Plus Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 
@@ -270,6 +247,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 
 #EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Undefined",RN Televisión
 https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="RPP.pe" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_2387772_lfG0qKI0__0000002QTcJ&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=bp1u4177RYe0qkLIpoLq9O6kYcA5LImG&sid=c7u2pAd5cGTsKQCN9EKgoLlF5bJhwfwa&pid=Xe6QoeHDGJrUxN54n2aPrW2r1vEkuNLP&ref=rpp.pe&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1681329535482&ot=skRJ0gxtwEHXiZ_QU6iQow&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
