@@ -261,52 +261,36 @@ https://inliveserver.com:1936/9514/9514/chunklist_w204258083.m3u8
 #EXTINF:-1 tvg-id="190.211.140.13/soltv/" tvg-logo="http://190.211.140.13/soltv/img/logomenu.png" group-title="Undefined",Sol Televisión Canal 10
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp
-https://paneltv.online:1936/8116/8116/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SumacTV.pe" tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="Music",Sumac TV
+#EXTINF:-1 tvg-id="http://Tv.Peru15.com/tv-regional/sumac-tv" tvg-logo="http://tv.peru15.com/images/regional/sumac-tv.png" group-title="Music",STV HD
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperCanal.com.pe" tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="Undefined",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperTV.pe" tvg-logo="https://i.imgur.com/F166GPP.png" group-title="General",Super TV
-https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español
+#EXTINF:-1 tvg-id="https://TV2Club.com/live-tv/tastemadeenespanol-united-states/" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv2club.com/live-tv/cineclubtv-peru/" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Movies",TecSatel Cine TV
-https://servilive.com:3176/live/cineclublive.m3u8
-
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="Entertainment",Tele2000
+#EXTINF:-1 tvg-id="Tele2000.com.pe/en-vivo/" tvg-logo="https://tele2000.com.pe/wp-content/uploads/LOGO-WEB_168x168.png" group-title="Entertainment",TELE 2000
 https://servilive.com:3126/live/tele2000live.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas.pe" tvg-logo="https://i.imgur.com/yhv3XyU.png" group-title="Undefined",Teleamazonas
+#EXTINF:-1 tvg-id="TeleAmazonas.pe/tv-en-vivo/" tvg-logo="https://teleamazonas.pe/wp-content/uploads/2020/12/LOGO-TELE-AMAZONAS.png" group-title="Undefined",Tele Amazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor
+#EXTINF:-1 tvg-id="TelecolorTV.pe" tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png" group-title="General",Telecolor HD
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",teleSUR
+#EXTINF:-1 tvg-id="teleSURtv.net" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="News",teleSUR HD
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 
-#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Ilo)
+#EXTINF:-1 tvg-id="TeleSur.com.pe/telesur/streaming" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="Undefined",TeleSur (Ilo)
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
-#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Mollendo)
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-
-#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Camana)
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-
-#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="General",Telesur (Tacna)
+#EXTINF:-1 tvg-id="TeleSur.com.pe/telesur/streaming" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="General",Telesur (Tacna)
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Televisión Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
