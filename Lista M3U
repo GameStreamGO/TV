@@ -246,31 +246,25 @@ https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
 #EXTINF:-1 tvg-id="Actualidad.RT.com/en_vivo" tvg-logo="https://actualidad.rt.com/static/js/homescreen/icon.png" group-title="News",RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="RTVTotal.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="News",RTV Total
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="News",RTV Total
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV
+#EXTINF:-1 tvg-id="CoolStreaming.us/channelnew/es/64208/SanIsidroTV.html" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-logo="https://sanjuaneratv.pe/wp-content/uploads/2021/10/LOGO1.png" group-title="Music",SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
 
-#EXTINF:-1 tvg-id="Sistema1TV.com" tvg-logo="https://i.imgur.com/GaEfzuG.png" group-title="General",Sistema 1 TV
+#EXTINF:-1 tvg-id="Sistema1TV.com" tvg-logo="https://sistema1tv.com/aplication/webroot/imgs/logo.png" group-title="General",Sistema 1 TV
 https://inliveserver.com:1936/9514/9514/chunklist_w204258083.m3u8
 
-#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-logo="https://i.imgur.com/uLFfZPc.png" group-title="Undefined",Sol Stereo TV
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Undefined",Sol Televisión
+#EXTINF:-1 tvg-id="190.211.140.13/soltv/" tvg-logo="http://190.211.140.13/soltv/img/logomenu.png" group-title="Undefined",Sol Televisión Canal 10
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp
 https://paneltv.online:1936/8116/8116/playlist.m3u8
