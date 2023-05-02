@@ -288,27 +288,25 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 tvg-id="TeleSur.com.pe/telesur/streaming" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="General",Telesur (Tacna)
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="General",Televisión Tarapoto
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe/tv-en-vivo/" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="General",Televisión Tarapoto HD
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tn.com.ar" tvg-logo="https://tn.com.ar/apple-touch-icon.png" group-title="Undefined",Todo Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681306269/ei/PV42ZOWoAfCQ4dUPwrGQeA/ip/179.6.212.36/id/6hWHWGJ1Gbw.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMXTkcFW035L8DGNuUaHY_9SX6dGuukFqQtD7ftv7rEICIQCdlL1V-0dVupO-ThwdZBxtjjxTuaAJ9qMDQ0xqef8_yw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="TopTVaguaytia.com" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="General",Top TV Aguaytia
+#EXTINF:-1 tvg-id="TopTVaguaytia.com" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="General",Top TV Aguaytia
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tpto.org" tvg-logo="https://i.imgur.com/pjcWDJW.png" group-title="Undefined",TPTO Channel
-https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" tvg-logo="https://futureleaders.llorenteycuenca.com/wp-content/uploads/2020/08/logo-trivu-color.png" group-title="General",Trivu
+
+
+
+#EXTINF:-1 tvg-id="TrivuTV.com/envivo" tvg-logo="https://www.trivutv.com/assets/images/header/LOGO_01.svg" group-title="General",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="General",Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
