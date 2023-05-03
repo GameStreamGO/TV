@@ -6,7 +6,7 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="Panamericana.pe/tvenvivo" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230414" group-title="Undefined",Panamericana Canal 5
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.gob.pe//play" tvg-logo="https://tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Undefined",TVPeru Canal 7
+#EXTINF:-1 tvg-id="TVPeru.gob.pe/play" tvg-logo="https://tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Undefined",TVPeru Canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe/envivo-atvmas" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
@@ -17,6 +17,9 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
 #EXTINF:-1 tvg-id="ExitosaNoticias.pe/tv/envivo" tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa_rrss.png" group-title="News",Exitosa Canal 15
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.gob.pe/internacional/play" tvg-logo="https://tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="General",TVPerú Internacional Canal 21
+http://cdnh4.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 tvg-id="ntv.pe" tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png" group-title="General",Nativa Canal 30
 https://servilive.com:3449/live/mlecaroslive.m3u8
@@ -294,37 +297,30 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTVaguaytia.com" tvg-logo="https://www.toptvaguaytia.com/wp-content/uploads/2020/12/toplogo.jpg" group-title="General",Top TV Aguaytia
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="TrivuTV.com/envivo" tvg-logo="https://www.trivutv.com/assets/images/header/LOGO_01.svg" group-title="General",Trivu
+#EXTINF:-1 tvg-id="TrivuTV.com/envivo" tvg-logo="https://www.trivutv.com/assets/images/logo.png" group-title="General",Trivu
 https://servilive.com:3244/live/trivutvlive.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="General",Tropical TV
+#EXTINF:-1 tvg-id="CorporacionTropicalPuerto.com/tv" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2196-294x165-FFFFFF.jpg" group-title="General",Tropical TV
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TurboMix.com.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix TV
+#EXTINF:-1 tvg-id="TurboMix.com.pe/innovatestream_turbomixTV.php" tvg-logo="https://turbomix.com.pe/styles/common-images/logo.jpg" group-title="Music",Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos
+#EXTINF:-1 tvg-id="TVCosmos.pe/envivo/" tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="General",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional
-http://cdnh4.iblups.com/hls/irtp.m3u8
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
