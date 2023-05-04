@@ -309,39 +309,29 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe/envivo/" tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="General",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima
+#EXTINF:-1 tvg-id="TVPeruanisima.com" tvg-logo="https://tvperuanisima.com/wp-content/uploads/2021/07/cropped-Logo-150x113-1.png" group-title="Music",TV Peruanísima
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco
+#EXTINF:-1 tvg-id="SistemasCuzcoPeru.com/tvstreaming/" tvg-logo="https://sistemascuscoperu.com/wp-content/uploads/2021/03/1613311552-768x188.png" group-title="General",TV Sistemas Cuzco
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="General",TVenLinea Cusco
+#EXTINF:-1 tvg-id="TVenLineaOficial.com" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2023/02/logocusco.jpg" group-title="General",TV en Linea Cusco
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
-#EXTINF:-1 tvg-id="TVFacesPeru.pe" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="Entertainment",Tvfaces Online
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="Entertainment",Tvfaces Online
 https://tvdatta.com:3211/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="https://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america" tvg-logo="https://i.imgur.com/CzeVIZa.png" group-title="General",Galicia TV América
-https://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnifeTV.pe" tvg-logo="https://i.imgur.com/lVpDLVU.png" group-title="Religious",Unife TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/manifest.m3u8?p=79&s=1681275773&e=1681275893&h=3b42be34a4c3395cced890f2d8d66762
+
+
 
 #EXTINF:-1 tvg-id="UnitelPeru.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UnitelTV
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
