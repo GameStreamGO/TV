@@ -9,9 +9,6 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.gob.pe/play" tvg-logo="https://tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Undefined",TVPeru Canal 7
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe/envivo-atvmas" tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/logo-atvmas-player.png" group-title="Undefined",ATV+ Canal 10
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
-
 #EXTINF:-1 tvg-id="TVPeru.gob.pe/noticias/play" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="News",TVPerú Noticias Canal 14
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
@@ -69,9 +66,6 @@ https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.com" tvg-logo="https://www.canal8catacaos.com/wp-content/uploads/2021/01/canal8logo.png" group-title="General",Canal 8
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.com/canal26-en-vivo" tvg-logo="https://www.canal26.com/images/favicon/apple-touch-icon.png" group-title="News",Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalIPe.tv/streaming" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/ipe-blanco.png" group-title="Family",Canal IPe
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 
@@ -89,9 +83,6 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cultura24.tv" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/logo.png" group-title="Culture",Cultura24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DMJsur.com/tv/" tvg-logo="https://www.dmjsur.com/wp-content/uploads/2016/08/dmj.png" group-title="General",DMJ
-https://v4.tustreaming.cl/s1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW.com/es/tv-en-vivo/s-100837" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -138,14 +129,8 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-id="KpopTV.live/video/kpop-livestreaming/#/?playlistId=0&videoId=0" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Undefined",K-Pop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kanade.Wowlymedia.com/en-vivo" tvg-logo="https://kanade.wowlymedia.com/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="Entertainment",Kanade
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-
 #EXTINF:-1 tvg-id="RadioKaribena.pe/videoskaribenatv/" tvg-logo="https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" group-title="Music",Karibeña TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-
-#EXTINF:-1 tvg-id="LaLuz.pe/tvenvivo/" tvg-logo="https://laluz.pe/wp-content/uploads/2020/08/logo-web-nuevo.png" group-title="Religious",La Luz Television
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MasterTVradio.com/tv" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="General",Master Televisión
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
@@ -153,17 +138,11 @@ https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC-America.com/live-streaming/" tvg-logo="https://www.mbc-america.com/images/logo/MBXAMERICA_LOGO.png" group-title="Culture;Entertainment;Music",MBC America
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVArequipa.com/television-en-vivo/" tvg-logo="https://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2-300x173.png" group-title="Undefined",Mega TV
-https://hls.servidor.stream/storage/megatv.m3u8
-
 #EXTINF:-1 tvg-id="ElGrupoFiesta.pe/nativa-tv/" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/04/nativa-tv.jpg" group-title="General",Nativa
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-id="ElGrupoFiesta.pe/miel-tv/" tvg-logo="https://elgrupofiesta.pe/wp-content/uploads/2019/11/mieltv2-1.jpg" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-
-#EXTINF:-1 tvg-id="IPTV.PeruEduca.pe/unicast/canal-1" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 1
-http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IPTV.PeruEduca.pe/unicast/canal-2" tvg-logo="http://iptv.perueduca.pe/images/logo.png" group-title="Education",MINEDU IPTV 2
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
@@ -188,9 +167,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PaxTVMovil.org" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="Religious",Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel
-https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moyobamba.com/PlanetaTV" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="Undefined",Planeta HD
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -272,9 +248,6 @@ https://live.obslivestream.com/supercanal/index.m3u8
 
 #EXTINF:-1 tvg-id="https://TV2Club.com/live-tv/tastemadeenespanol-united-states/" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tele2000.com.pe/en-vivo/" tvg-logo="https://tele2000.com.pe/wp-content/uploads/LOGO-WEB_168x168.png" group-title="Entertainment",TELE 2000
-https://servilive.com:3126/live/tele2000live.m3u8
 
 #EXTINF:-1 tvg-id="TeleAmazonas.pe/tv-en-vivo/" tvg-logo="https://teleamazonas.pe/wp-content/uploads/2020/12/LOGO-TELE-AMAZONAS.png" group-title="Undefined",Tele Amazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
