@@ -321,23 +321,24 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="Entertainment",Tvfaces Online
 https://tvdatta.com:3211/stream/play.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="UnitelPeru.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UnitelTV
+#EXTINF:-1 tvg-id="UnitelPeru.pe" tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="General",UnitelTV
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="Undefined",Uranio
 https://live.obslivestream.com/uraniotv/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
