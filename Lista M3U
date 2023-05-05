@@ -327,42 +327,32 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="Undefined",Uranio
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional
+#EXTINF:-1 tvg-id="TropicalMusicTV.com" tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/virtv_logo-290x68px.png" group-title="Music",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="General",VamisaTV
+#EXTINF:-1 tvg-id="RadioVamisa.tv/tv/" tvg-logo="https://radiovamisa.tv/wp-content/uploads/2020/03/logo-1.png" group-title="General",Vamisa Radio&TV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-logo="https://i.imgur.com/aJ4XExn.png" group-title="General",Vía Altomayo
+#EXTINF:-1 tvg-id="ViaAltoMayoTV.com" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="General",Vía Alto Mayo TV
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="General",Vía Televisión
+#EXTINF:-1 tvg-id="ViaTelevision.pe/envivo" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-1.png" group-title="General",Vía Televisión
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="News",Visión Noticias Perú
+#EXTINF:-1 tvg-id="VNP.pe/?page_id=618" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png" group-title="News",Cable Vision TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Music",Visión TV Musica
+#EXTINF:-1 tvg-id="CXTVenvivo.com/tv-en-vivo/vision-tv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Music",Visión TV Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="General",VisionSur
+#EXTINF:-1 tvg-id="VisionSurTV.pe/tv-en-vivo/" tvg-logo="https://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png" group-title="General",Vision Sur HD
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv
+#EXTINF:-1 tvg-id="VPItv.com/en-vivo/" tvg-logo="https://vpitv.com/pywhidub/elementor/thumbs/logo-vpi-b-263x300-1-p2z3incdsrpngf2yhvuk1g838o90xfwksu0oidoueg.png" group-title="News",VPItv
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV
+#EXTINF:-1 tvg-id="WOWElSalvador.com" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",X TV
+#EXTINF:-1 tvg-id="XTV.pe" tvg-logo="https://xtv.pe/wp-content/uploads/2022/04/x-tv-web-1.png" group-title="General",X TV
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
